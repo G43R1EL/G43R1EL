@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G43R1EL, I'm a developer in progress my real name if don't guess it is Gabriel.
+- 👋 Hi, I’m @G43R1EL, I'm a developer in progress my real name if you don't guess it is Gabriel.
 - 👀 I’m interested in programing languages, design, IT & learning.
 - 🌱 I’m currently learning Full Stack Developer at Coderhouse
 - 💞️ I’m looking to collaborate as freelance on web projects.
