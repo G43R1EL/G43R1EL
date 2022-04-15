@@ -8,7 +8,7 @@
   <br>
   <li>👀 I’m interested in programing languages, design, IT & learning.</li>
   <br>
-  <li>🌱 I’m currently learning Full Stack Developer at Coderhouse.</li>
+  <li>🌱 I’m currently learning programming with Oracle Next Education & Full Stack Developer at Coderhouse.</li>
   <br>
   <li>💞️ I’m looking to collaborate as freelance on web projects.</li>
   <br>
